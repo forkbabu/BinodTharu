@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Sayantan Das",
     author_email="sayantandas30011998@gmail.com",
-    description="Say Binod and nothing else",
+    description="Binod",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://https://github.com/forkbabu/Binod",
+    url="https://https://github.com/forkbabu/BinodTharu",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -19,7 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    keywords='api python meme',
+    keywords='binod',
     install_requires=[
       'numpy'
     ],    
