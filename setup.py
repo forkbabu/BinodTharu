@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="binodtharu", 
-    version="1.9",
+    version="2.0",
     author="Sayantan Das",
     author_email="sayantandas30011998@gmail.com",
     description="Binod",
@@ -21,7 +21,6 @@ setuptools.setup(
     python_requires='>=3.6',
     keywords='binod',
     install_requires=[
-      'wget',
-      'os'
+      'wget'
     ],    
 )
