@@ -7,5 +7,5 @@ if not (os.path.isfile('gdrive.sh')):
 	
 def binod(fileid):
 	print('Binod downloads {} from Google Drive'.format(fileid))
-        os.system('curl gdrive.sh | bash -s {}'.format(fileid))
+    os.system('curl gdrive.sh | bash -s {}'.format(fileid))
 
