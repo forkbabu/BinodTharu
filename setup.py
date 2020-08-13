@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="binodtharu", 
-    version="1.0",
+    version="1.9",
     author="Sayantan Das",
     author_email="sayantandas30011998@gmail.com",
     description="Binod",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://https://github.com/forkbabu/BinodTharu",
+    url="https://github.com/forkbabu/BinodTharu",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -21,6 +21,7 @@ setuptools.setup(
     python_requires='>=3.6',
     keywords='binod',
     install_requires=[
-      'numpy'
+      'wget',
+      'os'
     ],    
 )
