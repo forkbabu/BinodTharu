@@ -21,6 +21,11 @@ setuptools.setup(
     python_requires='>=3.6',
     keywords='binod',
     install_requires=[
-      'wget'
+      'wget',
+      'futures',
+      'tqdm',
+      'os-sys',
+      'times',
+      'functools'
     ],    
 )
