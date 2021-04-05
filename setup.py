@@ -22,9 +22,6 @@ setuptools.setup(
     keywords='binod',
     install_requires=[
       'wget',
-      'futures',
       'tqdm',
-      'times',
-      'functools'
     ],    
 )
