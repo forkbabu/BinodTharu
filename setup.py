@@ -24,7 +24,6 @@ setuptools.setup(
       'wget',
       'futures',
       'tqdm',
-      'os-sys',
       'times',
       'functools'
     ],    
