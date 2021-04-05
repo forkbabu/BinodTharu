@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="binodtharu", 
-    version="2.5",
+    version="2.7",
     author="Sayantan Das",
     author_email="sayantandas30011998@gmail.com",
     description="Binod",
