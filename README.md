@@ -18,4 +18,4 @@ binodfunc('https://drive.google.com/file/d/1idYyq8CVm81WguiXyTuBCbXS53VT04YP/vie
 
 ### ToDo
 
-- [ ] Dropbox Support
+- [ ] CLI Support, something like `binod https://drive.google.com/drive/folders/1217uhIvLg9ZrYNKOR3XTRFSurt4miQrd` in the terminal.
